@@ -1,6 +1,6 @@
 # objects_inferencia
 
-An efficient net b0 model 
+An efficient net b0 model with 5951 classes.
 
 Please use the notebook to replicate the steps followed by us to compile our objects model with tensorflow-neuron. 
 Currently we are blocked at compilation 
